@@ -5,11 +5,11 @@
                              http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.memorynotfound.integration.jms.activemq</groupId>
-    <artifactId>embedded-activemq</artifactId>
+    <groupId>ru.k0r0tk0ff</groupId>
+    <artifactId>spring_jms_project</artifactId>
     <version>1.0.0-SNAPSHOT</version>
-    <url>http://memorynotfound.com</url>
-    <name>Spring Integration + ActiveMQ - ${project.artifactId}</name>
+    <url>https://github.com/k0r0tk0ff/spring_jms_project</url>
+    <name>spring_jms_project-${project.artifactId}</name>
 
     <properties>
         <spring-boot-release>1.5.7.RELEASE</spring-boot-release>
