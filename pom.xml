@@ -13,7 +13,6 @@
 
     <properties>
         <spring-boot-release>1.5.7.RELEASE</spring-boot-release>
-        <jackson-core-version>2.8.10</jackson-core-version>
         <spring-jdbc-version>4.3.11.RELEASE</spring-jdbc-version>
         <spring-jms-version>4.3.11.RELEASE</spring-jms-version>
         <h2database-version>1.4.196</h2database-version>
@@ -50,11 +49,6 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-activemq</artifactId>
             <version>${spring-boot-release}</version>
-        </dependency>
-        <dependency>
-            <groupId>com.fasterxml.jackson.core</groupId>
-            <artifactId>jackson-databind</artifactId>
-            <version>${jackson-core-version}</version>
         </dependency>
     </dependencies>
 
