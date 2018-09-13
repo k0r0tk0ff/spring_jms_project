@@ -1,13 +1,13 @@
 # spring_jms_project
 
 
-Use:
-https://spring.io/guides/gs/messaging-jms/
-https://www.codenotfound.com/spring-jms-activemq-example.html
-https://memorynotfound.com/spring-boot-embedded-activemq-configuration-example/
-https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-messaging.html
-
-Задача
+Use:  
+https://spring.io/guides/gs/messaging-jms/  
+https://www.codenotfound.com/spring-jms-activemq-example.html  
+https://memorynotfound.com/spring-boot-embedded-activemq-configuration-example/  
+https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-messaging.html  
+  
+Задача  
 Реализовать приложение, которое разворачивает Embedded брокер,  
 а так запускает 2 потока:  отправитель и получатель.  
 Отправитель с некоторой периодичностью генерирует сообщения и отправляет брокер.  
